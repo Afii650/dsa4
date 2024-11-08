@@ -63,7 +63,7 @@
 
 7. Data Science life cycle
      * Different processes in Data Science .
-#DAY4
+#**DAY4**
 Measures of central tendency
 Mean - average
 Median - middle value
@@ -138,7 +138,7 @@ t =  x -     s/N
  s sample’s SD
 
 https://datatab.net/tutorial/hypothesis
-#DAY4
+#**DAY4**
 Measures of central tendency
 Mean - average
 Median - middle value
@@ -185,7 +185,7 @@ Advance compared to pdf
 Boxplot 
 Shows median(Q2),Q1,Q3,lowerbound,upperbound,
 Outliers
-#DAY5
+#**DAY5**
 The probability of getting heads or tails in a coin toss is 0.5 because the cumulative sum will reach a value which is near to 0.5.
 
 Gaussian distribution - mean value can be anywhere. Not necessarily zero centred.
